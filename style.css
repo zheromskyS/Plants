@@ -7,7 +7,6 @@ body {
   padding: 0;
 
   color: #000000;
-
 }
 
 .wrapper {
@@ -137,6 +136,8 @@ body {
   border-radius: 10px;
 
   margin: 0;
+
+  background-color: #edf2ec;
 }
 
 .about {
@@ -432,14 +433,13 @@ body {
   text-align: center;
   margin: 0;
 
-  font-family: 'Inika', sans-serif;
+  font-family: "Inika", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 40px;
   line-height: 52px;
 
-  color: #499A18;
-
+  color: #499a18;
 }
 
 .contacts__img {
@@ -477,15 +477,13 @@ body {
 }
 
 .footer {
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 50px;
   color: #000000;
   height: 130px;
-
-
 }
 
 .footer-wrapper {
@@ -503,8 +501,6 @@ body {
 
   margin: 0 0;
   padding: 0;
-
-
 }
 
 .social-item {
@@ -512,7 +508,6 @@ body {
 }
 
 .social-item__img {
-
 }
 
 .github {
